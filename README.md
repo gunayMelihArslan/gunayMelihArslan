@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on artificial intelligence, software development and electronics engineering.<br>🌱 I'm studying electrical and electronics engineering at Selcuk University.
+🔭 I’m currently working on artificial intelligence, software development and electronics engineering.<br>🌱 I'm studying Electrical and Electronics Engineering at Selcuk University.
 
 
 ## 🌐 Socials:
