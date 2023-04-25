@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on artificial intelligence, software development and electronics engineering.<br>🌱 I'm studying electrical and electronics engineering at Selcuk University.
+🔭 I’m currently working on artificial intelligence, software development, PLC and electronics engineering.<br>🌱 I'm studying electrical and electronics engineering at Selcuk University.
 
 
 ### 💻 Tech Stack:
