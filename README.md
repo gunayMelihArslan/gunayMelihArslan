@@ -7,7 +7,7 @@
 -----
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://tr.linkedin.com/in/g%C3%BCnay-melih-arslan-980814206?trk=profile-badge) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21721318) 
-
+--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gunayMelihArslan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gunayMelihArslan&theme=dark&hide_border=false)<br/>
